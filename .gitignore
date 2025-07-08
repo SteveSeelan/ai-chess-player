@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Flask-related
+instance/
+*.db
+*.sqlite3
+
+# Log and runtime files
+*.log
+*.pid
+*.swp
+
+# Environment variables
+.env
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# macOS stuff
+.DS_Store
+
+# Image and video captures
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.h264
+
+# Pip cache or package builds
+*.egg-info/
+dist/
+build/
+__pypackages__/
+
+# System backup files
+*.bak
+*.tmp
+*~
+
+# Python crash logs
+python*.log
+
+# Camera debug files (just in case)
+libcamera*.log

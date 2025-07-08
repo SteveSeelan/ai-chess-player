@@ -1,0 +1,11 @@
+fastapi
+future
+numpy
+picamera2
+pyOpenSSL
+python-dotenv
+python-multipart
+requests
+uvicorn[standard]
+websockets
+opencv-python-headless
