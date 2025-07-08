@@ -12,11 +12,8 @@ Before installing Python packages, you need to install the following system libr
 sudo apt update
 sudo apt install -y build-essential pkg-config python3-dev libcap-dev libcamera-dev libcamera-apps python3-libcamera
 
-sudo apt update
-sudo apt install nginx certbot python3-certbot-nginx -y
-
 # Add any other specific packages you identified, e.g.,
 # sudo apt install -y libjpeg-dev zlib1g-dev libtiff-dev
 
-`./start_server.sh`
+`./run.sh`
 ```
